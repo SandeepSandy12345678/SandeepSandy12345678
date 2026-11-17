@@ -10,6 +10,4 @@ Frontend Engineer based in **Bengaluru, India** with **4.5+ years of experience*
 - 🔭 **What I Do:** Build modern, accessible, and SEO-optimized web applications using **React, Next.js, Vue.js, and TypeScript**.
 - 🗺️ **Domain Highlights:** Experienced in building location-aware tourism platforms with **Mapbox**, geofenced radius triggers, **Redux** state caching, and decoupled **WordPress Headless CMS** architectures.
 - ⚡ **Workflow:** Leverage AI-assisted development and automated unit testing to ship clean, maintainable frontend code.
-- 🎬 **Off the Clock:** Big cinema enthusiast—never miss a First Day First Show (FDFS)[cite: 1].
-
 ---
